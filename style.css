@@ -26,6 +26,7 @@ body {
 }
 .card-stats {
     padding-bottom: 40px;
+    max-width: 400px;
 }
 .card h2 span {
     color: #a76cd2;
