@@ -43,10 +43,9 @@ Users should be able to:
 - Google fonts
 
 
-<!-- ### Useful resources
+### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept. -->
+- [resource 1](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image) - This stackoverflow question help me figure out how to add color overlay to a background-image.
 
 ## Author
 
