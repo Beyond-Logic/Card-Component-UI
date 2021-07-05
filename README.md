@@ -1,4 +1,4 @@
-![screenshot](https://user-images.githubusercontent.com/29509047/124522974-fc4f2e00-ddec-11eb-987b-176b8edcaa95.png)
+![screenshot](https://user-images.githubusercontent.com/29509047/124524552-708cd000-ddf3-11eb-9d7e-d194656f0932.png)
 
 
 # Frontend Mentor - Stats preview card component solution
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/29509047/124522982-05d89600-dded-11eb-8ae0-b25e6a367b5d.png)
+![screenshot](https://user-images.githubusercontent.com/29509047/124524569-7a163800-ddf3-11eb-8699-f0e5507157bc.png)
 
 
 ### Links
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [resource 1](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image) - This stackoverflow question help me figure out how to add color overlay to a background-image.
+- [resource](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image) - This stackoverflow question help me figure out how to add color overlay to a background-image.
 
 ## Author
 
