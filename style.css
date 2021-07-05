@@ -3,7 +3,7 @@ body {
     color: #fff;
 }
 .container {
-    margin-top: 10%;
+    margin-top: 15%;
     width: 80%;
 
 }
@@ -28,7 +28,7 @@ body {
     padding-bottom: 40px;
 }
 .card h2 span {
-    color: #65318b;
+    color: #a76cd2;
 }
 .text-color {
    color: #8e8ba6;
@@ -40,11 +40,17 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    opacity: 0.75;
     min-height: 300px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+    box-shadow: inset 0 0 0 2000px rgb(122 41 183 / 52%);
 
+}
+
+.image-header::after {
+    content: "";
+    background-color: rgba(255, 0, 0, 0.3);
+    z-index: 4;
 }
 .card-stats h3 {
     text-transform: uppercase;
