@@ -1,4 +1,5 @@
-![screencapture-file-Users-decagon-Desktop-Frontend-stats-preview-card-component-main-index-html-2021-07-05-22_38_48](https://user-images.githubusercontent.com/29509047/124519664-e0925a80-dde1-11eb-853e-93ebc92986a3.png)
+![screenshot](https://user-images.githubusercontent.com/29509047/124521332-0cfca580-dde7-11eb-9e72-188189c5fbb7.png)
+
 # Frontend Mentor - Stats preview card component solution
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
