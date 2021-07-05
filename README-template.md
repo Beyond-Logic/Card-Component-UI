@@ -1,3 +1,4 @@
+![screencapture-file-Users-decagon-Desktop-Frontend-stats-preview-card-component-main-index-html-2021-07-05-22_38_48](https://user-images.githubusercontent.com/29509047/124519664-e0925a80-dde1-11eb-853e-93ebc92986a3.png)
 # Frontend Mentor - Stats preview card component solution
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -25,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screencapture-file-Users-decagon-Desktop-Frontend-stats-preview-card-component-main-index-html-2021-07-05-22_38_48](https://user-images.githubusercontent.com/29509047/124519704-fa33a200-dde1-11eb-8ea3-c8ddea501192.png)
+
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
