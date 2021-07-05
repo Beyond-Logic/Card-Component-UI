@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screencapture-file-Users-decagon-Desktop-Frontend-stats-preview-card-component-main-index-html-2021-07-05-22_38_48](https://user-images.githubusercontent.com/29509047/124519704-fa33a200-dde1-11eb-8ea3-c8ddea501192.png)
+![screenshot](https://user-images.githubusercontent.com/29509047/124521298-ea6a8c80-dde6-11eb-9c7b-d67a67badab7.png)
+
 
 ### Links
 
