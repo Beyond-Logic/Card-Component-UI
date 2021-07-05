@@ -1,4 +1,5 @@
-![screenshot](https://user-images.githubusercontent.com/29509047/124521332-0cfca580-dde7-11eb-9e72-188189c5fbb7.png)
+![screenshot](https://user-images.githubusercontent.com/29509047/124522974-fc4f2e00-ddec-11eb-987b-176b8edcaa95.png)
+
 
 # Frontend Mentor - Stats preview card component solution
 
@@ -25,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/29509047/124521298-ea6a8c80-dde6-11eb-9c7b-d67a67badab7.png)
+![screenshot](https://user-images.githubusercontent.com/29509047/124522982-05d89600-dded-11eb-8ae0-b25e6a367b5d.png)
 
 
 ### Links
