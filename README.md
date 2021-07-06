@@ -13,7 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-<!--   - [Useful resources](#useful-resources) -->
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository](https://github.com/Beyond-Logic/Frontend)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View](https://beyond-logic.github.io/Card-Component-UI/)
 
 ## My process
 
