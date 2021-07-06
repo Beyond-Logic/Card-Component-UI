@@ -22,7 +22,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ### Screenshot
 
@@ -41,7 +42,7 @@ Users should be able to:
 - HTML
 - CSS
 - Bootstrap 5
-- Google fonts
+- Google Fonts
 
 
 ### Useful resources
